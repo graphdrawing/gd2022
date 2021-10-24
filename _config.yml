@@ -10,13 +10,14 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "gd22" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GD2022: The 30th International Symposium on Graph Drawing and Network Visualization"
+title                    : "GD2022"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
@@ -24,7 +25,7 @@ description              : ""
 url                      : "http://graphdrawing.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "graphdrawing/gd2022"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : # "/assets/images/background.png"
 logo                     : "/assets/images/gd22logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -58,7 +59,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -105,8 +106,8 @@ author:
   name             : "graphdrawing.org"
   avatar           : "/assets/images/gd22logo.png"
   bio              : "The 30th International Symposium on Graph Drawing and Network Visualization will be held at Japan from September xx to xx, 2022 with a reception on the evening of September xx. A pre-conference PhD school is planned for September xx-xx, 2022."
-  location         : "Japan"
-  email            :
+  location         : "Tokyo, Japan"
+  email            : ""
   links:
     - label: "Contact"
       icon: "fas fa-fw fa-envelope-square"
@@ -126,6 +127,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
@@ -147,13 +149,13 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://instagram.com/"
 
 
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -216,7 +218,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+# paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -266,7 +268,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - https://jch.penibelst.de/
 compress_html:
@@ -275,14 +276,12 @@ compress_html:
     envs: development
 
 
-
-
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true

@@ -1,7 +1,19 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Call for Papers"
+    url: /pages/cfp
+  - title: "Committee"
+    url: /pages/committee
+  - title: "Program"
+    url: /pages/program
+  - title: "Venue"
+    url: /pages/venue
+  - title: "Registration"
+    url: /pages/registration
+  - title: "PhD School"
+    url: /pages/school
+  - title: "Contest"
+    url: /pages/contest
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
