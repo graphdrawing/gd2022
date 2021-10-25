@@ -11,7 +11,9 @@ toc: true
 
 ## Organization Committee
 
-### Publicity Chair
+### General Chair
 
 
 ## Program Committee
+
+## Steering Committee
