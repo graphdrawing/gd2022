@@ -21,10 +21,10 @@ toc: true
   {% endif %}
 <div style="display: inline-block; width: 45%; text-align: left;">
   {% if member.Photo == "yes" %}
-<img style="border-radius: 50%" src="http://localhost:4000/assets/images/oc/{{ member.First }}_{{ member.Given }}.jpg"
+<img style="border-radius: 50%" src="../../assets/images/oc/{{ member.First }}_{{ member.Given }}.jpg"
      class="circle" width="150" height="150" /><br />
   {% else %}
-<img style="border-radius: 50%" src="http://localhost:4000/assets/images/oc/nobody.jpg" width="150" height="150" /><br />
+<img style="border-radius: 50%" src="../../assets/images/oc/nobody.jpg" width="150" height="150" /><br />
   {% endif %}
 <strong>{{ member.First }} {{ member.Given }}</strong><br />
 {{ member.Affiliation }}<br /><br />
