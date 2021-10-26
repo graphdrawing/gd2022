@@ -26,7 +26,7 @@ url                      : "http://graphdrawing.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "graphdrawing/gd2022"
 teaser                   : # "/assets/images/background.png"
-logo                     : "/assets/images/gd22logo.png"
+logo                     : "/assets/images/logo/gd22-logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,8 +103,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "graphdrawing.org"
-  avatar           : "/assets/images/gd22logo.png"
+  name             : "GD2022"
+  avatar           : "/assets/images/logo/gd22-logo.png"
   bio              : "The 30th International Symposium on Graph Drawing and Network Visualization will be held at Tokyo, Japan from September 13-16, 2022 with a reception on the evening of September 13. A pre-conference PhD school is planned for September 12-13, 2022."
   location         : "Tokyo, Japan"
 #  email            : ""
@@ -132,15 +132,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/graphdrawing"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/graphdrawing.org/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

@@ -1,10 +1,10 @@
 ---
 # permalink: /about/
 layout: single
-title: "GD Contest"
+title: "GD2022 Contest"
 header:
-  image: /assets/images/background.png
-  caption: "Image credit: [**Clother**](https://opensea.io/collection/clother)"
+  image: /assets/images/teaser/sakura.png
+  caption: "Image credit: [**Tokyo Tech**](https://www.titech.ac.jp/english)"
 last_modified_at: 2021-10-24
 toc: true
 ---
