@@ -17,7 +17,7 @@ toc: true
 {% for member in data.OC-Members %}
   {% if role != member.Role %}
     {% assign role = member.Role %}
-<p class="oc-role"><strong>{{ member.Role }}</strong></p>
+<h3 class="oc-role"><strong>{{ member.Role }}</strong></h3>
   {% endif %}
 <div style="display: inline-block; width: 45%; text-align: left;">
   {% if member.Photo == "yes" %}
