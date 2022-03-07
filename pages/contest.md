@@ -20,3 +20,9 @@ The purpose of the Graph Drawing Contest is to monitor and challenge the current
 | Events                      | Dates                                 |
 |-----------------------------|---------------------------------------|
 | Contest deadline	 	        | Tuesday, 6 September 2022             |
+
+## Contest Committee
+
+Philipp Kindermann (chair), Universität Trier, Germany
+Tamara Mchedlidze, Utrecht University, The Netherlands
+Wouter Meulemans, TU Eindhoven, The Netherlands
