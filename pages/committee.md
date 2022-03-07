@@ -31,9 +31,6 @@ toc: true
 </div>
 {% endfor %}
 
-
-## Program Committee
-
 ## Steering Committee
 
 Please refer to [graphdrawing.org](http://graphdrawing.org/sc.html)

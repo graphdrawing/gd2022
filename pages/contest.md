@@ -23,6 +23,6 @@ The purpose of the Graph Drawing Contest is to monitor and challenge the current
 
 ## Contest Committee
 
-Philipp Kindermann (chair), Universität Trier, Germany
-Tamara Mchedlidze, Utrecht University, The Netherlands
-Wouter Meulemans, TU Eindhoven, The Netherlands
+* Philipp Kindermann (chair), Universität Trier, Germany
+* Tamara Mchedlidze, Utrecht University, The Netherlands
+* Wouter Meulemans, TU Eindhoven, The Netherlands
