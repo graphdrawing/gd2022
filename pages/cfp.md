@@ -39,6 +39,10 @@ Authors of accepted applied papers can request the opportunity to show a demo of
 
 ## Short Papers
 
+In addition to the above two tracks, there will be a separate category for short papers, describing theoretical or applied contributions of shorter length. Papers in this category will be assigned a shorter time for presentation during the conference.
+
+## Submission Format
+
 All submissions must be formatted using the appropriate LaTeX style file, either gd-llncs.cls for long papers or gd-llncs-short.cls for short papers; these are derived from the style file used for the conference series Lecture Notes in Computer Science (LNCS) provided by Springer.  The default margins and fonts must not be modified; in particular, the use of packages such as times.sty is not allowed. Submissions that do not comply with this format risk rejection without consideration of their merits.
 
 To promote inclusion of figures in the submitted papers, submissions will have a strict number of lines limit. Regular papers must have at most 400 lines, (excluding references and figures) and at most 14 pages (excluding references). Short papers must have at most 225 lines (excluding references and figures) and at most 7 pages (excluding references). The claims of the paper should be fully substantiated. If this information does not fit within the page limits, the authors should include it in a clearly marked appendix, whose length is not constrained and which the reviewers may read at their own discretion.  All submissions will be handled through EasyChair at the web site [https://easychair.org/conferences/?conf=gd2022](https://easychair.org/conferences/?conf=gd2022)
@@ -75,36 +79,3 @@ For each of the two tracks, the Program Committee of GD 2022 will bestow a **Bes
 | Poster notification		      | Friday, 19 August 2022                |
 | Final versions due		      | Monday, 5 September 2022 (23:59 PDT)              |
 | Invitations to special issues   | Frinday, 30 September 2022             |
-
-## Program Committee
-
-* Patrizio Angelini (co-chair), John Cabot University, Italy
-* Therese Biedl, University of Waterloo, Canada
-* Sabine Cornelsen, Universität Konstanz, Germany
-* Giordano Da Lozzo, Roma Tre University, Italy
-* Stephan Diehl, Universität Trier, Germany
-* Henry Förster, Universität Tübingen, Germany
-* Martin Gronemann, TU Wien, Austria
-* Yasuhiro Hashimoto, The University of Aizu, Japan
-* Michael Hoffmann, ETH Zürich, Switzerland
-* Hiroshi Hosobe, Hosei University, Japan
-* Yifan Hu, Yahoo! Research, USA
-* Takayuki Itoh, Ochanomizu University, Japan
-* Philipp Kindermann, Universität Trier, Germany
-* Karsten Klein, Universität Konstanz, Germany
-* Stephen Kobourov, University of Arizona, USA
-* Jan Kratochvíl, Charles University of Prague, Czech Republic
-* Kim Marriott, Monash University, Australia
-* Irene Parada, TU Eindhoven, The Netherlands
-* Sergey Pupyrev, Facebook, USA
-* Helen Purchase, University of Glasgow, Scotland
-* Arnaud Sallaberry, LIRMM, Université Paul-Valéry Montpellier, France
-* Ingo Scholtes, University of Zurich, Switzerland
-* Falk Schreiber, Universität Konstanz, Germany
-* André Schulz, FernUniversität in Hagen, Germany
-* Andrew Suk, University of California San Diego, USA
-* Antonios Symvonis, National Technical University of Athens, Greece
-* Alessandra Tappini, University of Perugia, Italy
-* Meirav Zehavi, Ben-Gurion University, Israel
-* Reinhard von Hanxleden (co-chair), Christian-Albrechts-Universität zu Kiel, Germany
-* Tatiana von Landesberger, Universität Köln, Germany
