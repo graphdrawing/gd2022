@@ -1,7 +1,7 @@
 ---
 # permalink: /about/
 layout: single
-title: "Call for Papers"
+title: "Important News"
 header:
   image: /assets/images/teaser/sakura.png
   caption: "Image credit: [**Tokyo Tech**](https://www.titech.ac.jp/english)"
