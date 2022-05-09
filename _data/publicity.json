@@ -33,7 +33,7 @@
       "Website": "https://kwakita.blog"
     },
     {
-      "Role": "Local Co-organizer (Finance)",
+      "Role": "Local Co-organizer (Online)",
       "First": "Masahiko",
       "Given": "Itoh",
       "Affiliation": "Hokkaido Information University, Japan",
@@ -55,6 +55,14 @@
       "Affiliation": "IBM Research, Japan",
       "Photo": "yes",
       "Website": "https://researcher.watson.ibm.com/researcher/view.php?person=jp-RINA"
+    },
+    {
+      "Role": "Local Co-organizer (Registration)",
+      "First": "Yuri",
+      "Given": "Miyagi",
+      "Affiliation": "",
+      "Photo": "no",
+      "Website": ""
     }
   ],
   "PC-Memers": [

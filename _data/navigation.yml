@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Important News"
+    url: /pages/news
   - title: "Call for Papers"
     url: /pages/cfp
   - title: "Committee"
