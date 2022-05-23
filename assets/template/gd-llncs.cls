@@ -82,6 +82,10 @@
 \DeclareCaptionFormat{myformat}{\internallinenumbers{\bfseries #1#2}#3}
 \captionsetup{format=myformat,labelsep=period}
 
+% Do not number subfigures' captions
+\captionsetup{compatibility=false}
+\captionsetup[subfigure]{format=hang}
+
 %% \gdnl = number line: allows to manually add the current linenumber to a
 %% single line if placed at the start of that line
 \newsavebox{\gdnlbox}%
