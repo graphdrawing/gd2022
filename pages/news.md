@@ -11,7 +11,12 @@ toc: true
 
 The GD2022 organization committee is currently preparing the on-site and online hybrid symposium. However, please understand that this may change to an online-only event depending on the future status of the COVID19 infection.
 
-The discount registration fee for online participants will be applied only to the audience. At least one presenter for each paper or poster is required to register as an on-site participant.
+<!-- The discount registration fee for online participants will be applied only to the audience. At least one presenter for each paper or poster is required to register as an on-site participant. -->
+
+We will suppose three types of registrations:
+- On-site participant (including speaker and audience): At least one speaker per one paper/poster must register as on-site participant if the presentation is on-site.
+- On-line speaker: At least one speaker per one paper/poster must register as on-line speaker if the presentation is on-line.
+- On-line audience
 
 Please also note the following restrictions on on-site participation in Japan
 
