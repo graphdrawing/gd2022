@@ -28,28 +28,33 @@ Remark to participants of PhD school
 ## Registration Fees:
 
 * On-site participant registration fee (Early: August 31 or earlier)
+
 Non-student 35,000 yen
 Student 25,000 yen
 
 * On-site participant registration fee (Late: September 1 or later)
+
 Non-student 40,000 yen
 Student 30,000 yen
 
 * Online presenter registration fee
+
 Non-student 20,000 yen
 Student 15,000 yen
 
 * Online audience registration fee
+
 Free (but registration required)
 
 * Additional banquet ticket	7,000 yen
 * Invitation letter issue fee 3,000 yen
 
+Remarks:
+
 - On-line registration will be closed on 24:00 on September 5.
 - On-site registration will be available. Please prepare your registration fee as cash in Japanese yen if you want to register on-site.
 - Please remark credit cards or other digital payments are not available at the conference venue.
-
-* Any requests (e.g., dietary restrictions) are expected to be described on the "Dietary requests and other message" column of the registration form.
+- Any requests (e.g., dietary restrictions) are expected to be described on the "Dietary requests and other message" column of the registration form.
 
 ## Cancellation Policy:
 
@@ -64,4 +69,4 @@ Access the request form for the invitation [documents](https://docs.google.com/f
 
 * NEVER apply MULTIPLE participants on a single form. Please estimate THREE WEEKS to receive documents via postal mails after submitting this form.
 
-Contact:[Graph Drawing 2022 Organization Committee](gd22-organizer@graphdrawing.org)
+Contact: [Graph Drawing 2022 Organization Committee](gd22-organizer@graphdrawing.org)
