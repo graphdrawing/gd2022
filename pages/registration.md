@@ -71,4 +71,4 @@ Remarks:
 
 * NEVER apply MULTIPLE participants on a single form. Please estimate THREE WEEKS to receive documents via postal mails after submitting this form.
 
-Contact: [Graph Drawing 2022 Organization Committee](gd22-organizer@graphdrawing.org)
+Contact: Graph Drawing 2022 Organization Committee gd22-organizer(at)graphdrawing.org
