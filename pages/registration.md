@@ -15,7 +15,7 @@ Graph Drawing 2022 registration fee covers:
 - Attendance of conference delegates to all sessions of the conference
 - Download information for the symposium proceedings
 - Symposium materials (onsite participants only)
-- Coffee breaks, Welcome party & Banquet (onsite participants only)
+- Coffee breaks & Welcome party (onsite participants only)
 - Access to PhD school
 
 Remark to authors:
@@ -29,16 +29,14 @@ Remark to participants of PhD school
 
 * On-site participant registration fee (Early: August 31 or earlier)
 
+  * Non-student 30,000 yen
+  * Student 20,000 yen
+
+* On-site participant registration fee (Late: September 1 or later)
   * Non-student 35,000 yen
   * Student 25,000 yen
 
-* On-site participant registration fee (Late: September 1 or later)
-
-  * Non-student 40,000 yen
-  * Student 30,000 yen
-
 * Online presenter registration fee
-
   * Non-student 20,000 yen
   * Student 15,000 yen
 
@@ -46,7 +44,6 @@ Remark to participants of PhD school
 
   * Free (but registration required)
 
-* Additional banquet ticket	7,000 yen
 * Invitation letter issue fee 3,000 yen
 
 Remarks:
@@ -61,14 +58,19 @@ Remarks:
 We will NOT refund the registration fee for cancellations.
 If you wish to change your registration from onsite to online due to a change in immigration status, or from online to onsite due to a change in immigration status, please consult with us on a case-by-case basis.
 
+## Invitation documents (for participants from ERFS-available countries)
+
+We support online visa process for participants from ERFS-available countries. Details will be announced later.
+
 ## Invitation Documents:
 
-We support visa processes of participants by preparing invitation documents. Requests for the documents are only applicable for participants who completed the registration and payment of registration fee and invitation letter issue fee (additional 3,000 Japanese yen PER PARTICIPANT).
+We support visa processes of participants by preparing invitation documents. Requests for the documents are only applicable for participants who completed the registration and payment of registration fee and invitation letter issue fee (additional 3,000 Japanese yen PER PARTICIPANT).  Details will be announced later.
 
-Access the request form for the invitation [documents](https://docs.google.com/forms/d/e/1FAIpQLSfHAVug6Akqp8m10xFRG69RW16vfKmLQkhSHwwU38LJSbTFKQ/viewform)
+<!--Access the request form for the invitation [documents](https://docs.google.com/forms/d/e/1FAIpQLSfHAVug6Akqp8m10xFRG69RW16vfKmLQkhSHwwU38LJSbTFKQ/viewform)
 
 Remarks:
 
 * NEVER apply MULTIPLE participants on a single form. Please estimate THREE WEEKS to receive documents via postal mails after submitting this form.
+-->
 
 Contact: Graph Drawing 2022 Organization Committee gd22-organizer(at)graphdrawing.org

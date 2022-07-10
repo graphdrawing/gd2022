@@ -14,15 +14,17 @@ The GD2022 organization committee is currently preparing the on-site and online 
 <!-- The discount registration fee for online participants will be applied only to the audience. At least one presenter for each paper or poster is required to register as an on-site participant. -->
 
 We will suppose three types of registrations:
+
 - On-site participant (including speaker and audience): At least one speaker per one paper/poster must register as on-site participant if the presentation is on-site.
 - On-line speaker: At least one speaker per one paper/poster must register as on-line speaker if the presentation is on-line.
-- On-line audience
+- On-line audience:
 
 Please also note the following restrictions on on-site participation in Japan
 
-1. The Japanese government is currently strictly limiting entry to Japan with a tourist visa. It is possible that the restrictions may be eased in the future, but we are not optimistic since it is a gradual easing of restrictions. The organization committee will issue documents to properly registered persons who are worthy attending the conference (e.g., paper presenters, affiliated with research institutions).  The documents include an invitation letter and itinerary, which the participants are requested to submit to the Japanese embassy in your country of residence to obtain a visa.
+1. The Japanese government is currently strictly limiting entry to Japan with a tourist visa. It is possible that the restrictions may be eased in the future, but we are not optimistic since it is a gradual easing of restrictions. The organization committee will support the immigration for properly registered persons who are worthy attending the conference (e.g., paper presenters, affiliated with research institutions). Details will be announced later.
+
+<!--The documents include an invitation letter and itinerary, which the participants are requested to submit to the Japanese embassy in your country of residence to obtain a visa.-->
 
 2. The Tokyo Institute of Technology, which will serve as the venue for GD2022, takes strict measures to prevent infection. All visitors are required to wear masks, and hand washing and disinfection are mandatory.
 
-3. Tokyo metropolitan region did not approve "dinners of nine or more people" until May 22. This restriction has now been lifted, but may be reintroduced in the future. If this restriction is reintroduced, the banquet will either be cancelled or moved outside of Tokyo (15 or 30 minutes by
-train).
+3. Tokyo metropolitan region did not approve “dinners of nine or more people” until May 22. This restriction has now been lifted, but it is very likely to reintroduce in the future.  Also, some institutes in Japan currently prohibit researchers and students to attend banquets and reuqire to separate banquet fee from the registration fee.   Based on this situation, we have decided to EXCLUDE banquet fee from the registration fee.  When we are able to confirm that the banquet is definitely ready to be held, we will charge additional fees for the banquet.
