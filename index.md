@@ -7,7 +7,7 @@ classes: wide
 header:
   image: /assets/images/teaser/sakura.png
   caption: "Image credit: [**Tokyo Tech**](https://www.titech.ac.jp/english)"
-last_modified_at: 2021-10-28
+last_modified_at: 2022-07-15
 ---
 
 
@@ -46,7 +46,7 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 ## Reasons to attend GD2022
 
 - invited speakers as exerts in the field
-- pre-conference PhD school (with low fee)
+- pre-conference PhD school
 - traditional graph drawing contest
 - free online Proceedings in LNCS
 - papers available online before the conference
