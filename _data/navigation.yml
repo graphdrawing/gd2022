@@ -12,6 +12,8 @@ main:
     url: /pages/venue
   - title: "Registration"
     url: /pages/registration
+  - title: "Visa"
+    url: /pages/visa
   - title: "PhD School"
     url: /pages/school
   - title: "Contest"
