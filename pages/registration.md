@@ -19,7 +19,7 @@ Graph Drawing 2022 registration fee covers:
 - Access to PhD school
 
 Remark:
-- The registration fee EXCLUDES the banquet fee. See [important news]("/pages/news") page.
+- The registration fee EXCLUDES the banquet fee. See [important news]("../../pages/news/") page.
 
 Remark to authors:
 - Each paper/poster accepted for the conference must be presented at the conference.
@@ -48,7 +48,7 @@ Remark to participants of PhD school
   * Free (but registration required)
 
 * Invitation documents posting fee 3,000 yen
-(Please see the [visa page]("/pages/visa") describing the necessity of invitation documents for participants from particular countries.)
+(Please see the [visa page]("../../pages/visa/") describing the necessity of invitation documents for participants from particular countries.)
 
 Remarks:
 
