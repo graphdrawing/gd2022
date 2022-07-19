@@ -21,7 +21,7 @@ We will suppose three types of registrations:
 
 Please also note the following restrictions on on-site participation in Japan
 
-1. The Japanese government is currently strictly limiting entry to Japan with a tourist visa. The organization committee will support the visa process for properly registered persons who are worth of attending the conference (e.g., paper presenters, affiliated with research institutions).  Details are described on the [visa]("../../pages/visa/") page.
+1. The Japanese government is currently strictly limiting entry to Japan with a tourist visa. The organization committee will support the visa process for properly registered persons who are worth of attending the conference (e.g., paper presenters, affiliated with research institutions).  Details are described on the [visa](/pages/visa) page.
 
 2. The Tokyo Institute of Technology, which will serve as the venue for GD2022, takes strict measures to prevent infection. All visitors are required to wear masks, and hand washing and disinfection are mandatory.
 
