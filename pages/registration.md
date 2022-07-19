@@ -31,7 +31,6 @@ Remark to participants of PhD school
 ## Registration Fees:
 
 * On-site participant registration fee (Early: August 31 or earlier)
-
   * Non-student 30,000 yen
   * Student 20,000 yen
 
@@ -44,7 +43,6 @@ Remark to participants of PhD school
   * Student 15,000 yen
 
 * Online audience registration fee
-
   * Free (but registration required)
 
 * Invitation documents posting fee 3,000 yen
