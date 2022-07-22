@@ -28,6 +28,12 @@ Remark to participants of PhD school
 - This year we do not have independent registration fee for PhD school, but participants of PhD school must register to the symposium.
 
 
+## Registration page:
+
+Please buy tickets for the symposium at the following Web site:
+[https://graphdrawing22-symp.peatix.com/](https://graphdrawing22-symp.peatix.com/)
+
+
 ## Registration Fees:
 
 * On-site participant registration fee (Early: August 31 or earlier)
@@ -60,19 +66,13 @@ Remarks:
 We will NOT refund the registration fee for cancellations.
 If you wish to change your registration from onsite to online due to a change in immigration status, or from online to onsite due to a change in immigration status, please consult with us on a case-by-case basis.
 
-## Invitation documents (for participants from ERFS-available countries)
+## Certificate for foreign participants:
 
-We support online visa process for participants from ERFS-available countries. Details will be announced later.
+Every foreign visitor is required to submit a certificate issued by the symposium organizer to the local Japanese embassy. Please see the [visa page](/gd2022/pages/visa) that describes how to request the certificate.
 
-## Invitation Documents:
+## Invitation documents for participants from specific countries:
 
-We support visa processes of participants by preparing invitation documents. Requests for the documents are only applicable for participants who completed the registration and payment of registration fee and invitation letter issue fee (additional 3,000 Japanese yen PER PARTICIPANT).  Details will be announced later.
+In addition to the certificate described above, the Japanese embassy in some countries requires additional documents.  Requests for the documents are only applicable for participants who completed the registration and payment of the registration fee and invitation letter issue fee (additional 3,000 Japanese yen PER PARTICIPANT).  Please see the [visa page](/gd2022/pages/visa) that describes the details.
 
-<!--Access the request form for the invitation [documents](https://docs.google.com/forms/d/e/1FAIpQLSfHAVug6Akqp8m10xFRG69RW16vfKmLQkhSHwwU38LJSbTFKQ/viewform)
-
-Remarks:
-
-* NEVER apply MULTIPLE participants on a single form. Please estimate THREE WEEKS to receive documents via postal mails after submitting this form.
--->
-
-Contact: Graph Drawing 2022 Organization Committee gd22-organizer(at)graphdrawing.org
+Contact: Graph Drawing 2022 Organization Committee
+gd22-organizer(at)graphdrawing.org
