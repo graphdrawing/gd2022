@@ -14,9 +14,24 @@ toc: true
 ## Ulrik Brandes (ETH Zürich, Switzerland)
 
 <p> <strong> Title: </strong> </p>
-<p> TBD </p>
+<p> Positions in Social and Other Spaces </p>
 <p> <strong> Abstract: </strong> </p>
-<p> TBD </p>
+<p>
+Social networks are a traditional source of inspiration for graph drawing methods, and their analysis continues to motivate a variety of layout constraints and objectives.
+</p> 
+<p>
+In recent years, my research has increasingly been focused on methodological questions related to social networks and other applied areas of network science. This has led to a framework, dubbed the positional approach, which facilitates adaptive and theory-informed empirical network data science. It turns out, however, that it is also another rich source of algorithmic and visualization problems. The present contribution is therefore forward-looking, using results from the past few years to point out possible directions for future research in three parts.
+</p>
+<p>
+In the first part, I review some defining aspects of the positional approach to network science with an eye towards challenges for graph drawing and network visualization. These are centered largely on combinatorial problems involving preorders and graph classes.
+</p>
+<p>
+A particularly strong link between influence processes on social networks and barycentric graph drawing is discussed in the second part. Using concepts from above, this extends naturally to calls for novel scaling methods and research on graph embeddings.
+</p>
+<p>
+The final part is about collectice behavior in the context of team sports. More precisely, I will outline problems arising from our most recent efforts of performance analysis in association football (soccer) using proximity graphs.
+</p>
+
 <p> <strong> Biography: </strong> </p>
 
 <p>
