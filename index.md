@@ -56,5 +56,5 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 ## Gold Sponsor
 
-<a href="https://www.tomsawyer.com" target="_blank"><img src="../../assets/images/sponser/Tom_Sawyer_Software.png" width="250" /></a><br /><br />
+<a href="https://www.tomsawyer.com" target="_blank"><img src="../../assets/images/sponsor/Tom_Sawyer_Software.png" width="250" /></a><br /><br />
 <a href="https://www.tomsawyer.com" target="_blank"><strong>Tom Sawyer Software</strong><br /></a>
