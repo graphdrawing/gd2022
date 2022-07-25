@@ -5,7 +5,7 @@ title: "Program"
 header:
   image: /assets/images/teaser/sakura.png
   caption: "Image credit: [**Tokyo Tech**](https://www.titech.ac.jp/english)"
-last_modified_at: 2022-07-22
+last_modified_at: 2022-07-25
 toc: true
 ---
 
@@ -18,7 +18,7 @@ toc: true
 <p> <strong> Abstract: </strong> </p>
 <p>
 Social networks are a traditional source of inspiration for graph drawing methods, and their analysis continues to motivate a variety of layout constraints and objectives.
-</p> 
+</p>
 <p>
 In recent years, my research has increasingly been focused on methodological questions related to social networks and other applied areas of network science. This has led to a framework, dubbed the positional approach, which facilitates adaptive and theory-informed empirical network data science. It turns out, however, that it is also another rich source of algorithmic and visualization problems. The present contribution is therefore forward-looking, using results from the past few years to point out possible directions for future research in three parts.
 </p>
