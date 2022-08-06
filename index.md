@@ -54,7 +54,7 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 - low conference fee - especially for students
 - Tokyo is a wonderful city to visit
 
-## Gold Sponsor
+## Sponsor
 
 <a href="https://www.tomsawyer.com" target="_blank"><img src="../gd2022/assets/images/sponsor/Tom_Sawyer_Software.png" width="250" /></a><br /><br />
 <a href="https://www.tomsawyer.com" target="_blank"><strong>Tom Sawyer Software</strong><br /></a>
