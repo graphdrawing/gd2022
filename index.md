@@ -59,8 +59,8 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 <a href="https://www.tomsawyer.com" target="_blank"><img src="../gd2022/assets/images/sponsor/Tom_Sawyer_Software.png" width="250" /></a><br /><br />
 <a href="https://www.tomsawyer.com" target="_blank"><strong>Tom Sawyer Software</strong><br /></a>
 
-<a href="https://www.yworks.com" target="_blank"><img src="../gd2022/assets/images/sponsor/yWorks.png" width="250" /></a><br /><br />
-<a href="https://www.yworks.com" target="_blank"><strong>yWorks</strong><br /></a>
+<a href="https://www.yworks.com" target="_blank"><img src="../gd2022/assets/images/sponsor/yWorks.png" width="180" /></a><br /><br />
+<a href="https://www.yworks.com" target="_blank"><strong>yWorks</strong></a>
 
-<a href="https://www.springer.com" target="_blank"><img src="../gd2022/assets/images/sponsor/springer.png" width="250" /></a><br /><br />
+<a href="https://www.springer.com" target="_blank"><img src="../gd2022/assets/images/sponsor/springer.png" width="180" /></a><br /><br />
 <a href="https://www.springer.com" target="_blank"><strong>Springer</strong><br /></a>
