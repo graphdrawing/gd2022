@@ -30,12 +30,19 @@ toc: true
 <p> <strong> Abstract: </strong> </p>
 <p> Angular resolution is one of the well-known aesthetic criteria for graph drawing, but its theoretical properties are not well understood.  For a straight-line drawing of a graph, its vertex angular resolution is the minimum angle formed by two consecutive edges around a vertex, and its crossing angular resolution is the minimum angle formed by a crossing, while the crossing angular resolution is defined to be 360 degrees if there is no crossing.  The total angular resolution of a straight-line drawing is the minimum of the vertex angular resolution and the crossing angular resolution.  The vertex/crossing/total angular resolution of a graph is the supremum of the vertex/crossing/total angular resolution of any straight-line drawing of the graph.  In this talk, we review some of the results on angular resolution in the literature, and identify several open problems in the field. </p>
 
-## [Shigeo Takahashi](http://web-ext.u-aizu.ac.jp/~shigeo/home.html) (University of Aizu, Japan)
+## [Shigeo Takahashi](http://web-ext.u-aizu.ac.jp/~shigeo/home.html) (University of Aizu, Japan), [Hsiang-Yun Wu](http://yun-vis.net) (St. Pölten University of Applied Sciences, Austria)
 
 <p> <strong> Title: </strong> </p>
-<p> TBD </p>
+<p> Real-world examples toward visual diagram placement problems </p>
 <p> <strong> Abstract: </strong> </p>
-<p> TBD </p>
+<p> This tutorial presents case studies on how real-world examples yield practical hints for improving visual diagram representations.
+</p>
+<p>
+We will first introduce the concept of schematization, which has been commonly incorporated in transit maps and other complex diagrams. Using different schematization strategies allows us to illuminate low-level details about the underlying complex networks while distinguishing the high-level structures. We solved this problem by introducing map metaphors that arrange the schematized layout in order to manage network visual complexity hierarchically. We show an overview of common design criteria and use cases, and specifically, our ideas used to visually untangle complicated pathways inherent in biological systems.
+</p>
+<p>
+We then present another case study for animating the visual explanation of dynamic set diagrams. We conducted this animation design by solving problems for optimizing railway schedules. More specifically, we first decomposed the dynamic set diagram into atomic changes and then mapped each change to a fundamental component that constitutes the entire railway schedule. We demonstrate how such railway scheduling algorithms successfully inspired us to improve the visual readability in the animation of dynamic set diagrams.
+</p>
 
 ## [Amyra Meidiana](https://www.researchgate.net/scientific-contributions/Amyra-Meidiana-2123258639) (The University of Sydney, Australia)
 
