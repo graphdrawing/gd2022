@@ -5,7 +5,7 @@ title: "Registration"
 header:
   image: /assets/images/teaser/tree.png
   caption: "Image credit: [**Tokyo Tech**](https://www.titech.ac.jp/english)"
-last_modified_at: 2022-07-22
+last_modified_at: 2022-08-16
 toc: true
 ---
 
@@ -44,11 +44,11 @@ Please buy tickets for the symposium at the following Web site:
   * Non-student 35,000 yen
   * Student 25,000 yen
 
-* Online presenter registration fee
+* On-line presenter registration fee
   * Non-student 20,000 yen
   * Student 15,000 yen
 
-* Online audience registration fee
+* On-line audience registration fee
   * Free (but registration required)
 
 * Invitation documents posting fee 3,000 yen
@@ -56,10 +56,11 @@ Please buy tickets for the symposium at the following Web site:
 
 Remarks:
 
-- On-line registration will be closed on 24:00 on September 5.
-- On-site registration will be available. Please prepare your registration fee as cash in Japanese yen if you want to register on-site.
-- Please remark credit cards or other digital payments are not available at the conference venue.
+<!-- - On-line registration will be closed on 24:00 on September 5. -->
+- On-site registration will be available. Please register via the registration Web page and pay using your credit card. Please remark credit card is only available for registration.
+<!-- - Please remark credit cards or other digital payments are not available at the conference venue. -->
 - Any requests (e.g., dietary restrictions) are expected to be described on the "Dietary requests and other message" column of the registration form.
+- Invitation letter request is available until August 25. 
 
 ## Cancellation Policy:
 
