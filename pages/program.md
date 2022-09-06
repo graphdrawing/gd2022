@@ -5,9 +5,102 @@ title: "Program"
 header:
   image: /assets/images/teaser/sakura.png
   caption: "Image credit: [**Tokyo Tech**](https://www.titech.ac.jp/english)"
-last_modified_at: 2022-07-25
+last_modified_at: 2022-09-06
 toc: true
 ---
+
+| WEDNESDAY                                                 |
+|---------------|----------------|-----|------------|-------|
+| TIME (JST)    | ACTIVITY       | MIN | WHO        | WHERE |
+|---------------|----------------|-----|------------|-------|
+| 09:00 - 09:30	| Registration   |     |            |       |
+| 09:30 - 09:35	| Opening        |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| 09:35 - 09:55	| Unavoidable patterns in complete simple topological graphs (best T1)    | 20  | Zeng       | on    |
+| 09:55 - 10:10 | Empty Triangles in Generalized Twisted Drawings of K_n             | 15  | Weinberger | on    |
+| 10:10 - 10:25 | Compatible Spanning Trees in Simple Drawings of $K_n$             | 15  | Paul       | on    |
+| 10:25 - 10:40 | Shooting Stars in Simple Drawings of K_{m,n}             | 15  | Weinberger | on    |
+|---------------|----------------|-----|------------|-------|
+| 10:40 - 11:10 | Break          |     |            |
+|---------------|----------------|-----|------------|-------|
+| 11:10 - 11:30 | Small Point-Sets Supporting Graph Stories             | 20  | Grosso     | on    |
+| 11:30 - 11:50 | On the Complexity of the Storyplan Problem             | 20  | Di Giacomo | on    |
+| 11:50 - 12:10 | On Time and Space: An Experimental Study on Graph Structural and Temporal Representations             | 20  | Filipov    | on    |
+| 12:10 - 12:30 | Improved Scheduling of Morphing Edge Drawing             | 20  | Misue      | on    |
+|---------------|----------------|-----|------------|-------|
+| 12:30 - 14:00 | Lunch          |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| 14:00 - 14:20 | Quasiplanar graphs, string graphs, and the Erdős-Gallai problem             | 20  | Suk        | on    |
+| 14:20 - 14:40 | The thickness of fan-planar graphs is at most three             | 20  | Pfister    | CEST  |
+| 14:40 - 15:00 | Arrangements of Pseudocircles: On Digons and Triangles             | 20  | Roch       | CEST  |
+| 15:00 - 15:20 | Mutual Witness Gabriel Drawings of Complete Bipartite Graphs             | 20  | Liotta     | CEST  |
+|---------------|----------------|-----|------------|-------|
+| 15:20 - 15:30 | Poster pitches |     |            |       |
+| 15:30 - 16:30 | Break + poster |     |            |       |
+| 16:30 - 18:00 | Contest        |     |            |       |
+
+<br/>
+
+| THURSDAY                                                  |
+|---------------|----------------|-----|------------|-------|
+| TIME (JST)    | ACTIVITY       | MIN | WHO        | WHERE |
+|---------------|----------------|-----|------------|-------|
+| 09:00 - 09:30	| Registration   |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| 09:30 - 10:30	| Keynote I      | 60  | Brandes    | on    |
+|---------------|----------------|-----|------------|-------|
+| 10:30 - 11:00 | Break          |     |            |
+|---------------|----------------|-----|------------|-------|
+| 11:00 - 11:20 | Planarizing Graphs and their Drawings by Vertex Splitting             | 20  | Villedieu  | on    |
+| 11:20 - 11:35 | An FPT Algorithm for Bipartite Vertex Splitting             | 15  | Kryven     | EDT   |
+| 11:35 - 11:50 | Queue Layouts of Two-Dimensional Posets             | 15  | Pupyrev    | PDT   |
+| 11:50 - 12:10 | The Rique-Number of Graphs             | 20  | Kindermann | on    |
+| 12:10 - 12:25 | Recognizing DAGs with Page-Number 2 is NP-complete             | 15  | Mchedlidze | CEST  |
+|---------------|----------------|-----|------------|-------|
+| 12:30 - 14:00 | Lunch          |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| 14:00 - 14:20 | Strictly-Convex Drawings of 3-Connected Planar Graphs             | 20  | Symvonis   | CEST+1|
+| 14:20 - 14:40 | Rectilinear Planarity of Partial 2-Trees             | 20  | Ortali     | CEST  |
+| 14:40 - 15:00 | Unit-length Rectangular Drawings of Graphs             | 20  | Grosso     | on    |
+| 15:00 - 15:20 | Planar Confluent Orthogonal Drawings of 4-Modal Digraphs             | 20  | Diatzko    | CEST  |
+|---------------|----------------|-----|------------|-------|
+| 15:20 - 16:00 | Break          |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| 16:00 - 17:30 |Business meeting|     |            |       |
+
+<br/>
+
+| FRIDAY                                                    |
+|---------------|----------------|-----|------------|-------|
+| TIME (JST)    | ACTIVITY       | MIN | WHO        | WHERE |
+|---------------|----------------|-----|------------|-------|
+| 09:00 - 09:30	| Registration   |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| 09:30 - 10:30	| Keynote II     | 60  | Misue      | on    |
+|---------------|----------------|-----|------------|-------|
+| 10:30 - 11:00 | Break          |     |            |
+|---------------|----------------|-----|------------|-------|
+| 11:00 - 11:20 | FORBID: Fast Overlap Removal By Stochastic Gradient Descent for Graph Drawing (best T2)   | 20  | Giovannangeli | on    |
+| 11:20 - 11:40 | Spherical Graph Drawing by Multidimensional Scaling             | 20  | Miller     | on    |
+| 11:40 - 12:00 | Shape-Faithful Graph Drawings             | 20  | Meidiana   | on    |
+| 12:00 - 12:20 | Visualizing Evolving Trees             | 20  | Gray       | PDT   |
+|---------------|----------------|-----|------------|-------|
+| 12:30 - 14:00 | Lunch          |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| 14:00 - 14:20 | Morphing Rectangular Duals              | 20  | Kindermann | on    |
+| 14:20 - 14:40 | Coloring Mixed and Directional Interval Graphs             | 20  | Zink       | on    |
+| 14:40 - 15:00 | Outside-Obstacle Representations with All Vertices on the Outer Face             | 20  | Klesen     | on    |
+|---------------|----------------|-----|------------|-------|
+| 15:00 - 15:30 | Break          |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| 15:30 - 15:50 | Computing a Feedback Arc Set Using PageRank             | 20  | Tollis     | CEST+1|
+| 15:50 - 16:10 | st-Orientations with Few Transitive Edges             | 20  | Binucci    | CEST  |
+| 16:10 - 16:30 | Testing Upward Planarity of Partial 2-Trees             | 20  | Frati      | CEST  |
+| 16:30 - 16:50 | Visibility representations of toroidal and Klein-bottle graphs              | 20  | Biedl      | CEST  |
+|---------------|----------------|-----|------------|-------|
+| 16:50 - 17:10 | Voting best presentation and closing |     |            |       |
+
+<br/>
 
 # Keynote Speakers
 
