@@ -11,29 +11,29 @@ toc: true
 
 | WEDNESDAY                                                 |
 |---------------|----------------|-----|------------|-------|
-| TIME (JST)    | ACTIVITY       | MIN | WHO        | WHERE |
+| TIME (JST)    | ACTIVITY       | MIN | AUTHORS    |       |
 |---------------|----------------|-----|------------|-------|
 | 09:00 - 09:30	| Registration   |     |            |       |
 | 09:30 - 09:35	| Opening        |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| 09:35 - 09:55	| Unavoidable patterns in complete simple topological graphs (best T1)    | 20  | Zeng       | on    |
-| 09:55 - 10:10 | Empty Triangles in Generalized Twisted Drawings of K_n             | 15  | Weinberger | on    |
-| 10:10 - 10:25 | Compatible Spanning Trees in Simple Drawings of $K_n$             | 15  | Paul       | on    |
-| 10:25 - 10:40 | Shooting Stars in Simple Drawings of K_{m,n}             | 15  | Weinberger | on    |
+| 09:35 - 09:55	| Unavoidable patterns in complete simple topological graphs (best T1)    | 20  | Andrew Suk and Ji Zeng       |       |
+| 09:55 - 10:10 | Empty Triangles in Generalized Twisted Drawings of K_n             | 15  | Alfredo Garcia, Javier Tejel, Birgit Vogtenhuber and Alexandra Weinberger |       |
+| 10:10 - 10:25 | Compatible Spanning Trees in Simple Drawings of $K_n$             | 15  | Rosna Paul, Oswin Aichholzer, Kristin Knorr, Birgit Vogtenhuber, Johannes Obenaus, Wolfgang Mulzer, Nicolas El Maalouly, Meghana M Reddy and Alexandra Weinberger       |       |
+| 10:25 - 10:40 | Shooting Stars in Simple Drawings of K_{m,n}             | 15  | Oswin Aichholzer, Alfredo Garcia, Irene Parada, Birgit Vogtenhuber and Alexandra Weinberger |       |
 |---------------|----------------|-----|------------|-------|
 | 10:40 - 11:10 | Break          |     |            |
 |---------------|----------------|-----|------------|-------|
-| 11:10 - 11:30 | Small Point-Sets Supporting Graph Stories             | 20  | Grosso     | on    |
-| 11:30 - 11:50 | On the Complexity of the Storyplan Problem             | 20  | Di Giacomo | on    |
-| 11:50 - 12:10 | On Time and Space: An Experimental Study on Graph Structural and Temporal Representations             | 20  | Filipov    | on    |
-| 12:10 - 12:30 | Improved Scheduling of Morphing Edge Drawing             | 20  | Misue      | on    |
+| 11:10 - 11:30 | Small Point-Sets Supporting Graph Stories             | 20  | Giuseppe Di Battista, Walter Didimo, Luca Grilli, Fabrizio Grosso, Giacomo Ortali, Maurizio Patrignani and Alessandra Tappini     |       |
+| 11:30 - 11:50 | On the Complexity of the Storyplan Problem             | 20  | Carla Binucci, Emilio Di Giacomo, William J. Lenhart, Giuseppe Liotta, Fabrizio Montecchiani, Martin Nöllenburg and Antonios Symvonis |       |
+| 11:50 - 12:10 | On Time and Space: An Experimental Study on Graph Structural and Temporal Representations             | 20  | Velitchko Filipov, Alessio Arleo, Markus Bögl and Silvia Miksch    |       |
+| 12:10 - 12:30 | Improved Scheduling of Morphing Edge Drawing             | 20  | Kazuo Misue      |       |
 |---------------|----------------|-----|------------|-------|
 | 12:30 - 14:00 | Lunch          |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| 14:00 - 14:20 | Quasiplanar graphs, string graphs, and the Erdős-Gallai problem             | 20  | Suk        | on    |
-| 14:20 - 14:40 | The thickness of fan-planar graphs is at most three             | 20  | Pfister    | CEST  |
-| 14:40 - 15:00 | Arrangements of Pseudocircles: On Digons and Triangles             | 20  | Roch       | CEST  |
-| 15:00 - 15:20 | Mutual Witness Gabriel Drawings of Complete Bipartite Graphs             | 20  | Liotta     | CEST  |
+| 14:00 - 14:20 | Quasiplanar graphs, string graphs, and the Erdős-Gallai problem             | 20  | Jacob Fox, Janos Pach and Andrew Suk        |       |
+| 14:20 - 14:40 | The thickness of fan-planar graphs is at most three             | 20  | Otfried Cheong, Maximilian Pfister and Lena Schlipf    |       |
+| 14:40 - 15:00 | Arrangements of Pseudocircles: On Digons and Triangles             | 20  | Stefan Felsner, Sandro Roch and Manfred Scheucher       |       |
+| 15:00 - 15:20 | Mutual Witness Gabriel Drawings of Complete Bipartite Graphs             | 20  | William Lenhart and Giuseppe Liotta    |       |
 |---------------|----------------|-----|------------|-------|
 | 15:20 - 15:30 | Poster pitches |     |            |       |
 | 15:30 - 16:30 | Break + poster |     |            |       |
@@ -43,26 +43,26 @@ toc: true
 
 | THURSDAY                                                  |
 |---------------|----------------|-----|------------|-------|
-| TIME (JST)    | ACTIVITY       | MIN | WHO        | WHERE |
+| TIME (JST)    | ACTIVITY       | MIN | AUTHORS    |       |
 |---------------|----------------|-----|------------|-------|
 | 09:00 - 09:30	| Registration   |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| 09:30 - 10:30	| Keynote I      | 60  | Brandes    | on    |
+| 09:30 - 10:30	| Keynote I      | 60  | Brandes    |       |
 |---------------|----------------|-----|------------|-------|
 | 10:30 - 11:00 | Break          |     |            |
 |---------------|----------------|-----|------------|-------|
-| 11:00 - 11:20 | Planarizing Graphs and their Drawings by Vertex Splitting             | 20  | Villedieu  | on    |
-| 11:20 - 11:35 | An FPT Algorithm for Bipartite Vertex Splitting             | 15  | Kryven     | EDT   |
-| 11:35 - 11:50 | Queue Layouts of Two-Dimensional Posets             | 15  | Pupyrev    | PDT   |
-| 11:50 - 12:10 | The Rique-Number of Graphs             | 20  | Kindermann | on    |
-| 12:10 - 12:25 | Recognizing DAGs with Page-Number 2 is NP-complete             | 15  | Mchedlidze | CEST  |
+| 11:00 - 11:20 | Planarizing Graphs and their Drawings by Vertex Splitting             | 20  | Soeren Nickel, Martin Nöllenburg, Manuel Sorge, Anaïs Villedieu, Hsiang-Yun Wu and Jules Wulms  |       |
+| 11:20 - 11:35 | An FPT Algorithm for Bipartite Vertex Splitting             | 15  | Reyan Ahmed, Stephen Kobourov and Myroslav Kryven     |       |
+| 11:35 - 11:50 | Queue Layouts of Two-Dimensional Posets             | 15  | Sergey Pupyrev    |       |
+| 11:50 - 12:10 | The Rique-Number of Graphs             | 20  | Michael Bekos, Stefan Felsner, Philipp Kindermann, Stephen Kobourov, Jan Kratochvíl and Ignaz Rutter |       |
+| 12:10 - 12:25 | Recognizing DAGs with Page-Number 2 is NP-complete             | 15  | Michael Bekos, Giordano Da Lozzo, Fabrizio Frati, Martin Gronemann, Tamara Mchedlidze and Chrysanthi Raftopoulou |       |
 |---------------|----------------|-----|------------|-------|
 | 12:30 - 14:00 | Lunch          |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| 14:00 - 14:20 | Strictly-Convex Drawings of 3-Connected Planar Graphs             | 20  | Symvonis   | CEST+1|
-| 14:20 - 14:40 | Rectilinear Planarity of Partial 2-Trees             | 20  | Ortali     | CEST  |
-| 14:40 - 15:00 | Unit-length Rectangular Drawings of Graphs             | 20  | Grosso     | on    |
-| 15:00 - 15:20 | Planar Confluent Orthogonal Drawings of 4-Modal Digraphs             | 20  | Diatzko    | CEST  |
+| 14:00 - 14:20 | Strictly-Convex Drawings of 3-Connected Planar Graphs             | 20  | Michael Bekos, Martin Gronemann, Fabrizio Montecchiani and Antonios Symvonis   |       |
+| 14:20 - 14:40 | Rectilinear Planarity of Partial 2-Trees             | 20  | Walter Didimo, Michael Kaufmann, Giuseppe Liotta and Giacomo Ortali     |       |
+| 14:40 - 15:00 | Unit-length Rectangular Drawings of Graphs             | 20  | Carlos Alegría, Giordano Da Lozzo, Giuseppe Di Battista, Fabrizio Frati, Fabrizio Grosso and Maurizio Patrignani     |       |
+| 15:00 - 15:20 | Planar Confluent Orthogonal Drawings of 4-Modal Digraphs             | 20  | Sabine Cornelsen and Gregor Diatzko    |       |
 |---------------|----------------|-----|------------|-------|
 | 15:20 - 16:00 | Break          |     |            |       |
 |---------------|----------------|-----|------------|-------|
@@ -72,31 +72,31 @@ toc: true
 
 | FRIDAY                                                    |
 |---------------|----------------|-----|------------|-------|
-| TIME (JST)    | ACTIVITY       | MIN | WHO        | WHERE |
+| TIME (JST)    | ACTIVITY       | MIN | AUTHORS    |       |
 |---------------|----------------|-----|------------|-------|
 | 09:00 - 09:30	| Registration   |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| 09:30 - 10:30	| Keynote II     | 60  | Misue      | on    |
+| 09:30 - 10:30	| Keynote II     | 60  | Misue      |       |
 |---------------|----------------|-----|------------|-------|
 | 10:30 - 11:00 | Break          |     |            |
 |---------------|----------------|-----|------------|-------|
-| 11:00 - 11:20 | FORBID: Fast Overlap Removal By Stochastic Gradient Descent for Graph Drawing (best T2)   | 20  | Giovannangeli | on    |
-| 11:20 - 11:40 | Spherical Graph Drawing by Multidimensional Scaling             | 20  | Miller     | on    |
-| 11:40 - 12:00 | Shape-Faithful Graph Drawings             | 20  | Meidiana   | on    |
-| 12:00 - 12:20 | Visualizing Evolving Trees             | 20  | Gray       | PDT   |
+| 11:00 - 11:20 | FORBID: Fast Overlap Removal By Stochastic Gradient Descent for Graph Drawing (best T2)   | 20  | Loann Giovannangeli, Frédéric Lalanne, Romain Giot and Romain Bourqui |       |
+| 11:20 - 11:40 | Spherical Graph Drawing by Multidimensional Scaling             | 20  | Jacob Miller, Vahan Huroyan and Stephen Kobourov     |       |
+| 11:40 - 12:00 | Shape-Faithful Graph Drawings             | 20  | Amyra Meidiana, Seok-Hee Hong and Peter Eades   |       |
+| 12:00 - 12:20 | Visualizing Evolving Trees             | 20  | Kathryn Gray, Mingwei Li, Abu Reyan Ahmed and Stephen Kobourov       |       |
 |---------------|----------------|-----|------------|-------|
 | 12:30 - 14:00 | Lunch          |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| 14:00 - 14:20 | Morphing Rectangular Duals              | 20  | Kindermann | on    |
-| 14:20 - 14:40 | Coloring Mixed and Directional Interval Graphs             | 20  | Zink       | on    |
-| 14:40 - 15:00 | Outside-Obstacle Representations with All Vertices on the Outer Face             | 20  | Klesen     | on    |
+| 14:00 - 14:20 | Morphing Rectangular Duals              | 20  | Steven Chaplick, Philipp Kindermann, Jonathan Klawitter, Ignaz Rutter and Alexander Wolff |       |
+| 14:20 - 14:40 | Coloring Mixed and Directional Interval Graphs             | 20  | Grzegorz Gutowski, Florian Mittelstädt, Ignaz Rutter, Joachim Spoerhase, Alexander Wolff and Johannes Zink       |       |
+| 14:40 - 15:00 | Outside-Obstacle Representations with All Vertices on the Outer Face             | 20  | Oksana Firman, Philipp Kindermann, Jonathan Klawitter, Boris Klemz, Felix Klesen and Alexander Wolff     |       |
 |---------------|----------------|-----|------------|-------|
 | 15:00 - 15:30 | Break          |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| 15:30 - 15:50 | Computing a Feedback Arc Set Using PageRank             | 20  | Tollis     | CEST+1|
-| 15:50 - 16:10 | st-Orientations with Few Transitive Edges             | 20  | Binucci    | CEST  |
-| 16:10 - 16:30 | Testing Upward Planarity of Partial 2-Trees             | 20  | Frati      | CEST  |
-| 16:30 - 16:50 | Visibility representations of toroidal and Klein-bottle graphs              | 20  | Biedl      | CEST  |
+| 15:30 - 15:50 | Computing a Feedback Arc Set Using PageRank             | 20  | Vasileios Geladaris, Panagiotis Lionakis and Ioannis Tollis     |       |
+| 15:50 - 16:10 | st-Orientations with Few Transitive Edges             | 20  | Carla Binucci, Walter Didimo and Maurizio Patrignani    |       |
+| 16:10 - 16:30 | Testing Upward Planarity of Partial 2-Trees             | 20  | Steven Chaplick, Emilio Di Giacomo, Fabrizio Frati, Robert Ganian, Chrysanthi Raftopoulou and Kirill Simonov      |       |
+| 16:30 - 16:50 | Visibility representations of toroidal and Klein-bottle graphs              | 20  | Therese Biedl      |       |
 |---------------|----------------|-----|------------|-------|
 | 16:50 - 17:10 | Voting best presentation and closing |     |            |       |
 
@@ -224,3 +224,20 @@ His main interests are in network analysis and visualization, with application t
 - Otfried Cheong, Maximilian Pfister and Lena Schlipf. The thickness of fan-planar graphs is at most three
 
 - Reyan Ahmed, Stephen Kobourov and Myroslav Kryven. An FPT Algorithm for Bipartite Vertex Splitting
+
+# Accepted Posters
+
+## Onsite Posters
+
+- Ryosuke Saga, Tomoki Yoshikawa and Tomoharu Nakashima. Edge Bundling by Density-based Pathfinding Approach
+
+
+## Online Posters
+
+- Mykyta Shvets, Ehsan Moradi and Debajyoti Mondal. Visualizing Node-Specific Hierarchies in Directed Networks
+
+- Simon van Wageningen and Tamara Mchedlidze. Can an ML Model plainly learn Planar Layouts?
+
+- Giuseppe Liotta, Maarten Loffler, Fabrizio Montecchiani, Alessandra Tappini and Soeren Terziadis. The Witness Unit Disk Representability Problem
+
+- David Trye, Mark Apperley and David Bainbridge. Aggregating Hypergraphs by Node Attributes
