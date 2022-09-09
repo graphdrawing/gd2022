@@ -45,7 +45,7 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 ## Reasons to attend GD2022
 
-- invited speakers as exerts in the field
+- invited speakers as experts in the field
 - pre-conference PhD school
 - traditional graph drawing contest
 - free online Proceedings in LNCS
