@@ -9,12 +9,14 @@ last_modified_at: 2022-09-06
 toc: true
 ---
 
-| WEDNESDAY                                                 |
+| WEDNESDAY&nbsp;                                                 |
 |---------------|----------------|-----|------------|-------|
 | TIME (JST)    | ACTIVITY       | MIN | AUTHORS    |       |
 |---------------|----------------|-----|------------|-------|
 | 09:00 - 09:30	| Registration   |     |            |       |
 | 09:30 - 09:35	| Opening        |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| Session 1     |                |     | Chair: Emilio Di Giacomo |       |
 |---------------|----------------|-----|------------|-------|
 | 09:35 - 09:55	| Unavoidable patterns in complete simple topological graphs (best T1)    | 20  | Andrew Suk and Ji Zeng       |       |
 | 09:55 - 10:10 | Empty Triangles in Generalized Twisted Drawings of K_n             | 15  | Alfredo Garcia, Javier Tejel, Birgit Vogtenhuber and Alexandra Weinberger |       |
@@ -23,12 +25,16 @@ toc: true
 |---------------|----------------|-----|------------|-------|
 | 10:40 - 11:10 | Break          |     |            |
 |---------------|----------------|-----|------------|-------|
+| Session 2     |                |     | Chair: Philipp Kindermann |       |
+|---------------|----------------|-----|------------|-------|
 | 11:10 - 11:30 | Small Point-Sets Supporting Graph Stories             | 20  | Giuseppe Di Battista, Walter Didimo, Luca Grilli, Fabrizio Grosso, Giacomo Ortali, Maurizio Patrignani and Alessandra Tappini     |       |
 | 11:30 - 11:50 | On the Complexity of the Storyplan Problem             | 20  | Carla Binucci, Emilio Di Giacomo, William J. Lenhart, Giuseppe Liotta, Fabrizio Montecchiani, Martin Nöllenburg and Antonios Symvonis |       |
 | 11:50 - 12:10 | On Time and Space: An Experimental Study on Graph Structural and Temporal Representations             | 20  | Velitchko Filipov, Alessio Arleo, Markus Bögl and Silvia Miksch    |       |
 | 12:10 - 12:30 | Improved Scheduling of Morphing Edge Drawing             | 20  | Kazuo Misue      |       |
 |---------------|----------------|-----|------------|-------|
 | 12:30 - 14:00 | Lunch          |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| Session 3     |                |     | Chair: TBD |       |
 |---------------|----------------|-----|------------|-------|
 | 14:00 - 14:20 | Quasiplanar graphs, string graphs, and the Erdős-Gallai problem             | 20  | Jacob Fox, Janos Pach and Andrew Suk        |       |
 | 14:20 - 14:40 | The thickness of fan-planar graphs is at most three             | 20  | Otfried Cheong, Maximilian Pfister and Lena Schlipf    |       |
@@ -41,15 +47,19 @@ toc: true
 
 <br/>
 
-| THURSDAY                                                  |
+| THURSDAY&nbsp;&nbsp;&nbsp;&nbsp;                                                  |
 |---------------|----------------|-----|------------|-------|
 | TIME (JST)    | ACTIVITY       | MIN | AUTHORS    |       |
 |---------------|----------------|-----|------------|-------|
 | 09:00 - 09:30	| Registration   |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| 09:30 - 10:30	| Keynote I      | 60  | Brandes    |       |
+|               | Keynote I      |     | Chair: Patrizio Angelini |       |
+|---------------|----------------|-----|------------|-------|
+| 09:30 - 10:30	| Positions in Social and Other Spaces     | 60  | Ulrik Brandes     |       |
 |---------------|----------------|-----|------------|-------|
 | 10:30 - 11:00 | Break          |     |            |
+|---------------|----------------|-----|------------|-------|
+| Session 4     |                |     | Chair: Jiaxi Nie |       |
 |---------------|----------------|-----|------------|-------|
 | 11:00 - 11:20 | Planarizing Graphs and their Drawings by Vertex Splitting             | 20  | Soeren Nickel, Martin Nöllenburg, Manuel Sorge, Anaïs Villedieu, Hsiang-Yun Wu and Jules Wulms  |       |
 | 11:20 - 11:35 | An FPT Algorithm for Bipartite Vertex Splitting             | 15  | Reyan Ahmed, Stephen Kobourov and Myroslav Kryven     |       |
@@ -58,6 +68,8 @@ toc: true
 | 12:10 - 12:25 | Recognizing DAGs with Page-Number 2 is NP-complete             | 15  | Michael Bekos, Giordano Da Lozzo, Fabrizio Frati, Martin Gronemann, Tamara Mchedlidze and Chrysanthi Raftopoulou |       |
 |---------------|----------------|-----|------------|-------|
 | 12:30 - 14:00 | Lunch          |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| Session 5     |                |     | Chair: Peter Eades |       |
 |---------------|----------------|-----|------------|-------|
 | 14:00 - 14:20 | Strictly-Convex Drawings of 3-Connected Planar Graphs             | 20  | Michael Bekos, Martin Gronemann, Fabrizio Montecchiani and Antonios Symvonis   |       |
 | 14:20 - 14:40 | Rectilinear Planarity of Partial 2-Trees             | 20  | Walter Didimo, Michael Kaufmann, Giuseppe Liotta and Giacomo Ortali     |       |
@@ -70,15 +82,19 @@ toc: true
 
 <br/>
 
-| FRIDAY                                                    |
+| FRIDAY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                   |
 |---------------|----------------|-----|------------|-------|
 | TIME (JST)    | ACTIVITY       | MIN | AUTHORS    |       |
 |---------------|----------------|-----|------------|-------|
 | 09:00 - 09:30	| Registration   |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| 09:30 - 10:30	| Keynote II     | 60  | Misue      |       |
+|               | Keynote I      |     | Chair: Reinhard von Hanxleden |       |
+|---------------|----------------|-----|------------|-------|
+| 09:30 - 10:30	| Graph Drawing for Thinking Support     | 60  | Kazuo Misue‬       |       |
 |---------------|----------------|-----|------------|-------|
 | 10:30 - 11:00 | Break          |     |            |
+|---------------|----------------|-----|------------|-------|
+| Session 6     |                |     | Chair: Takayuki Itoh |       |
 |---------------|----------------|-----|------------|-------|
 | 11:00 - 11:20 | FORBID: Fast Overlap Removal By Stochastic Gradient Descent for Graph Drawing (best T2)   | 20  | Loann Giovannangeli, Frédéric Lalanne, Romain Giot and Romain Bourqui |       |
 | 11:20 - 11:40 | Spherical Graph Drawing by Multidimensional Scaling             | 20  | Jacob Miller, Vahan Huroyan and Stephen Kobourov     |       |
@@ -87,11 +103,15 @@ toc: true
 |---------------|----------------|-----|------------|-------|
 | 12:30 - 14:00 | Lunch          |     |            |       |
 |---------------|----------------|-----|------------|-------|
+| Session 7     |                |     | Chair: Andrew Suk |       |
+|---------------|----------------|-----|------------|-------|
 | 14:00 - 14:20 | Morphing Rectangular Duals              | 20  | Steven Chaplick, Philipp Kindermann, Jonathan Klawitter, Ignaz Rutter and Alexander Wolff |       |
 | 14:20 - 14:40 | Coloring Mixed and Directional Interval Graphs             | 20  | Grzegorz Gutowski, Florian Mittelstädt, Ignaz Rutter, Joachim Spoerhase, Alexander Wolff and Johannes Zink       |       |
 | 14:40 - 15:00 | Outside-Obstacle Representations with All Vertices on the Outer Face             | 20  | Oksana Firman, Philipp Kindermann, Jonathan Klawitter, Boris Klemz, Felix Klesen and Alexander Wolff     |       |
 |---------------|----------------|-----|------------|-------|
 | 15:00 - 15:30 | Break          |     |            |       |
+|---------------|----------------|-----|------------|-------|
+| Session 8     |                |     | Chair: Sabine Cornelsen |       |
 |---------------|----------------|-----|------------|-------|
 | 15:30 - 15:50 | Computing a Feedback Arc Set Using PageRank             | 20  | Vasileios Geladaris, Panagiotis Lionakis and Ioannis Tollis     |       |
 | 15:50 - 16:10 | st-Orientations with Few Transitive Edges             | 20  | Carla Binucci, Walter Didimo and Maurizio Patrignani    |       |
