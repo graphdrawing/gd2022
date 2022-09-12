@@ -34,7 +34,7 @@ toc: true
 |---------------|----------------|-----|------------|-------|
 | 12:30 - 14:00 | Lunch          |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| Session 3     |                |     | Chair: TBD |       |
+| Session 3     |                |     | Chair: Ken Wakita |       |
 |---------------|----------------|-----|------------|-------|
 | 14:00 - 14:20 | Quasiplanar graphs, string graphs, and the Erdős-Gallai problem             | 20  | Jacob Fox, Janos Pach and Andrew Suk        |       |
 | 14:20 - 14:40 | The thickness of fan-planar graphs is at most three             | 20  | Otfried Cheong, Maximilian Pfister and Lena Schlipf    |       |
