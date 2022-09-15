@@ -69,14 +69,16 @@ toc: true
 |---------------|----------------|-----|------------|-------|
 | 12:30 - 14:00 | Lunch          |     |            |       |
 |---------------|----------------|-----|------------|-------|
-| Session 5     |                |     | Chair: Peter Eades |       |
+| Session 5     | In Memoriam: Prof. Takao Nishizeki |     | Chair: Md. Saidur Rahman |       |
 |---------------|----------------|-----|------------|-------|
-| 14:00 - 14:20 | Strictly-Convex Drawings of 3-Connected Planar Graphs             | 20  | Michael Bekos, Martin Gronemann, Fabrizio Montecchiani and Antonios Symvonis   |       |
-| 14:20 - 14:40 | Rectilinear Planarity of Partial 2-Trees             | 20  | Walter Didimo, Michael Kaufmann, Giuseppe Liotta and Giacomo Ortali     |       |
-| 14:40 - 15:00 | Unit-length Rectangular Drawings of Graphs             | 20  | Carlos Alegría, Giordano Da Lozzo, Giuseppe Di Battista, Fabrizio Frati, Fabrizio Grosso and Maurizio Patrignani     |       |
-| 15:00 - 15:20 | Planar Confluent Orthogonal Drawings of 4-Modal Digraphs             | 20  | Sabine Cornelsen and Gregor Diatzko    |       |
+| 14:00 - 14:05 | Obituary Prof. Nishizeki |-----|------------|-------|
 |---------------|----------------|-----|------------|-------|
-| 15:20 - 16:00 | Break          |     |            |       |
+| 14:05 - 14:25 | Strictly-Convex Drawings of 3-Connected Planar Graphs             | 20  | Michael Bekos, Martin Gronemann, Fabrizio Montecchiani and Antonios Symvonis   |       |
+| 14:25 - 14:45 | Rectilinear Planarity of Partial 2-Trees             | 20  | Walter Didimo, Michael Kaufmann, Giuseppe Liotta and Giacomo Ortali     |       |
+| 14:45 - 15:05 | Unit-length Rectangular Drawings of Graphs             | 20  | Carlos Alegría, Giordano Da Lozzo, Giuseppe Di Battista, Fabrizio Frati, Fabrizio Grosso and Maurizio Patrignani     |       |
+| 15:05 - 15:25 | Planar Confluent Orthogonal Drawings of 4-Modal Digraphs             | 20  | Sabine Cornelsen and Gregor Diatzko    |       |
+|---------------|----------------|-----|------------|-------|
+| 15:25 - 16:00 | Break          |     |            |       |
 |---------------|----------------|-----|------------|-------|
 | 16:00 - 17:30 |Business meeting|     |            |       |
 
