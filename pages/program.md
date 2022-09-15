@@ -71,7 +71,7 @@ toc: true
 |---------------|----------------|-----|------------|-------|
 | Session 5     | In Memoriam: Prof. Takao Nishizeki |     | Chair: Md. Saidur Rahman |       |
 |---------------|----------------|-----|------------|-------|
-| 14:00 - 14:05 | Obituary Prof. Nishizeki |-----|------------|-------|
+| 14:00 - 14:05 | Obituary Prof. Nishizeki |     |            |       |
 |---------------|----------------|-----|------------|-------|
 | 14:05 - 14:25 | Strictly-Convex Drawings of 3-Connected Planar Graphs             | 20  | Michael Bekos, Martin Gronemann, Fabrizio Montecchiani and Antonios Symvonis   |       |
 | 14:25 - 14:45 | Rectilinear Planarity of Partial 2-Trees             | 20  | Walter Didimo, Michael Kaufmann, Giuseppe Liotta and Giacomo Ortali     |       |
