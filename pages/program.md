@@ -183,9 +183,9 @@ His main interests are in network analysis and visualization, with application t
 
 # Accepted Papers
 
-- Andrew Suk and Ji Zeng. Unavoidable patterns in complete simple topological graphs
+- Andrew Suk and Ji Zeng. Unavoidable patterns in complete simple topological graphs <span style="color:red">[Best Paper Award (T1)]</span>
 
-- Steven Chaplick, Philipp Kindermann, Jonathan Klawitter, Ignaz Rutter and Alexander Wolff. Morphing Rectangular Duals
+- Steven Chaplick, Philipp Kindermann, Jonathan Klawitter, Ignaz Rutter and Alexander Wolff. Morphing Rectangular Duals <span style="color:red">[Best Presentation Award]</span>
 
 - Therese Biedl. Visibility representations of toroidal and Klein-bottle graphs
 
@@ -235,7 +235,7 @@ His main interests are in network analysis and visualization, with application t
 
 - Michael Bekos, Stefan Felsner, Philipp Kindermann, Stephen Kobourov, Jan Kratochvíl and Ignaz Rutter. The Rique-Number of Graphs
 
-- Loann Giovannangeli, Frédéric Lalanne, Romain Giot and Romain Bourqui. FORBID: Fast Overlap Removal By Stochastic Gradient Descent for Graph Drawing
+- Loann Giovannangeli, Frédéric Lalanne, Romain Giot and Romain Bourqui. FORBID: Fast Overlap Removal By Stochastic Gradient Descent for Graph Drawing <span style="color:red">[Best Paper Award (T2)]</span>
 
 - Alfredo Garcia, Javier Tejel, Birgit Vogtenhuber and Alexandra Weinberger. Empty Triangles in Generalized Twisted Drawings of K_n
 
@@ -251,7 +251,7 @@ His main interests are in network analysis and visualization, with application t
 
 ## Onsite Posters
 
-- Ryosuke Saga, Tomoki Yoshikawa and Tomoharu Nakashima. Edge Bundling by Density-based Pathfinding Approach
+- Ryosuke Saga, Tomoki Yoshikawa and Tomoharu Nakashima. Edge Bundling by Density-based Pathfinding Approach <span style="color:red">[Best Poster Award]</span>
 
 
 ## Online Posters
@@ -260,6 +260,6 @@ His main interests are in network analysis and visualization, with application t
 
 - Simon van Wageningen and Tamara Mchedlidze. Can an ML Model plainly learn Planar Layouts?
 
-- Giuseppe Liotta, Maarten Loffler, Fabrizio Montecchiani, Alessandra Tappini and Soeren Terziadis. The Witness Unit Disk Representability Problem
+- Giuseppe Liotta, Maarten Loffler, Fabrizio Montecchiani, Alessandra Tappini and Soeren Terziadis. The Witness Unit Disk Representability Problem <span style="color:red">[Best Poster Award]</span>
 
 - David Trye, Mark Apperley and David Bainbridge. Aggregating Hypergraphs by Node Attributes
